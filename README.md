@@ -17,5 +17,5 @@ variations.
 | Ubiquity | Unifi Switch 48 PoE 500W | US‑48‑500W     | 48              | 39W  | 235V         | Adopted         |
 | HP       | 2920al-24G PoE           | J9727A         | 24              | 38W  | 235V         | EEE no change   |
 | HP       | 2824                     | J4903A         | 24              | 45W  | 230V         |                 |
-| HP       | 2610-24                  | J????          | 26              | 15W  | 230V         | 20x100 + 4x1000 |
-| HP       | 2510G-24                 | J????          | 24              | 27W  | 230V         |                 |
+| HP       | 2610-24                  | J9085A         | 26              | 15W  | 230V         | 20x100 + 4x1000 |
+| HP       | 2510G-24                 | J9279A         | 24              | 27W  | 230V         |                 |
