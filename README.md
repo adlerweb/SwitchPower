@@ -14,6 +14,8 @@ variations.
 | HP       | 2910al-24G PoE           | J9146A            | 24              | 43W  | 235V         |                   |
 | Ubiquity | Unifi Switch 24 PoE 250W | US‑24‑250W        | 24              | 24W  | 235V         | Adopted           |
 | Cisco    | Catalyst 2950            | WS-C2950-24       | 24              | 16W  | 235V         | 100MBit/s only    |
+| Cisco    | Catalyst 2960-S 24TS-L   | C2960S-24TS-L     | 24              | 24W  | 234V         |                   |
+| Cisco    | Catalyst 2960-S 48FPS-L  | C2960S-48FSP-L    | 48              | 54W  | 234V         |                   |
 | Ubiquity | Unifi Switch 48 PoE 500W | US‑48‑500W        | 48              | 39W  | 235V         | Adopted           |
 | HP       | 2920al-24G PoE           | J9727A            | 24              | 38W  | 235V         | EEE no change     |
 | HP       | 2920al-48G PoE           | J9729A            | 48              | 48W  | 222V         |                   |
